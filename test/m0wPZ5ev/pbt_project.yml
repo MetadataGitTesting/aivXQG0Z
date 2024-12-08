@@ -1,0 +1,49 @@
+name: marisol.torphy
+description: Stand-alone
+version: 2.0.9.322
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: marisoltorphy
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 20:32:57'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 20:32:57'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T20:32:57.974854Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '1332755178'
+  createdAt: '2024-12-08T20:32:57.974854Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
